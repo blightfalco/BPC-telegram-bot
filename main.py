@@ -16,8 +16,8 @@ from telegram.ext import (
 )
 
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # @BotFather থেকে নিন
-ADMIN_IDS = [123456789]             # আপনার Telegram User ID বসান
+BOT_TOKEN = "8654945371:AAGWoqOZhnqNUJ7yast91oTR1nrJyO_0SgE"   # @BotFather থেকে নিন
+ADMIN_IDS = [6690693077]             # আপনার Telegram User ID বসান
 
 FB_PAGE  = "https://www.facebook.com/profile.php?id=61575453639998"
 FB_GROUP = "https://facebook.com/groups/3489135951233643/"
