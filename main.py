@@ -523,7 +523,7 @@ if __name__ == "__main__":
     "🔒 Screen lock সবসময় চালু রাখুন — PIN বা Fingerprint দিয়ে।",
     "☁️ Cloud storage-এ sensitive ফাইল রাখার আগে encrypt করুন।",
     "🌍 অপরিচিত ওয়েবসাইটে personal তথ্য দেওয়া থেকে বিরত থাকুন।",
-]
+        ]
 
 TIPS_EN = [
     "🔐 Use strong passwords — mix uppercase, lowercase, numbers & symbols, 12+ chars.",
