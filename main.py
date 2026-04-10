@@ -14,8 +14,8 @@ from telegram.ext import (
 )
 
 # CONFIG
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]
+BOT_TOKEN = "8654945371:AAGWoqOZhnqNUJ7yast91oTR1nrJyO_0SgE"
+ADMIN_IDS = [6690693077]
 
 FB_PAGE  = "https://www.facebook.com/profile.php?id=61575453639998"
 FB_GROUP = "https://facebook.com/groups/3489135951233643/"
